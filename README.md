@@ -4,10 +4,10 @@
 25/04/2022
 
 ### Project Title
-udacity github project
+git udacity project
 
 ### Description
-
+using local repository and github repository to fork a repository, work on files, stage files and commit them to github.
 
 ### Files used
 bikeshares
@@ -18,7 +18,7 @@ newyork.csv
 ### Credits
 github.com
 youtube
-towardsdatascience.com
+google.com
 w3schools.com
-datainsightonline.com
+
 
