@@ -4,10 +4,10 @@
 25/04/2022
 
 ### Project Title
-udacity github project
+git udacity project
 
 ### Description
-
+using local repository and github repository to fork a repository, work on files, stage files and commit them to github, and also demonstrate how to hide files using gitignore.
 
 ### Files used
 bikeshares
@@ -18,7 +18,6 @@ newyork.csv
 ### Credits
 github.com
 youtube
-towardsdatascience.com
-w3schools.com
-datainsightonline.com
-
+google.com
+atlassian.com
+noble desktop
