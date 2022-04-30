@@ -19,7 +19,6 @@ newyork.csv
 github.com
 youtube
 google.com
-w3schools.com
 atlassian.com
 noble desktop
 
